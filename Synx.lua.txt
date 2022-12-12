@@ -1,0 +1,1 @@
+game:GetService("Players").LocalPlayer:Kick("Getting synaspe x website - buy to get access- https://x.synapse.to/")
